@@ -1,0 +1,24 @@
+{
+  "name": "wx-unicom",
+  "version": "1.0.0",
+  "description": "wx-unicom",
+  "main": "lib/unicom.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szpoppy/wx-unicom.git"
+  },
+  "keywords": [
+    "wx"
+  ],
+  "author": "locus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szpoppy/wx-unicom/issues"
+  },
+  "homepage": "https://github.com/szpoppy/wx-unicom#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    
+  }
+}
